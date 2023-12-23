@@ -1,21 +1,13 @@
-<p align="center">Extrac any repository's Information using Python</p>
+<h1 align="center">Extrac any repository's Information using Python</h1>
 
 
 
 ## About This Project: 
 
-Our Project is Title is Doctor Patient Consultation Manangement System. By using our project User(patient) can find doctor for his/her's preferenace times.
-
-
+This Python script will extract any GitHub repository's information such as all commitor's name, email, total commits, commit msg, etc.
 
 
 Tech Used: 
-PHP
-Laravel
-HTML, CSS, Javascript
-Bootstrap
-Vite
+Python
+Github API
 
-## Will Update Later ... 
-Everything ...
-Next task: UI pages (Patient/user page, doctor page, admin page)
