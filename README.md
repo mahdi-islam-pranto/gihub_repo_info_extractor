@@ -1,4 +1,4 @@
-<h1 align="center">Extrac any repository's Information using Python</h1>
+<h1 align="center">Extrac any repository's Informations using Python</h1>
 
 
 
@@ -8,6 +8,6 @@ This Python script will extract any GitHub repository's information such as all 
 
 
 Tech Used: 
-Python
-Github API
+Python, 
+GitHub API
 
